@@ -1,7 +1,7 @@
 Chatbot-facebook-demo (in development)
 ===
 > **Note**
-> Đọc thêm tài liệu về aiohtpp? https://docs.aiohttp.org/en/stable/
+> **Đọc thêm tài liệu về aiohtpp?** https://docs.aiohttp.org/en/stable/
 
 ## :computer: Đăng ký Meta for Developers Programs
 

@@ -7,7 +7,9 @@ from aiohttp import web
 from Constants import *
 
 # Choose the ChatGPT model
-_model_engine = "text-davinci-002" #large ver or davinci-002
+_model_engine = "text-davinci-002" 
+# Choose davinci-002 because it'll give us most of Vietnamese answers.
+# You can use davinci-003 as some Youtubers but it still not stable.
 """
 text-davinci-002: A medium-sized version of ChatGPT with a capacity of around 1.5 billion parameters.
 text-curie-001: A small version of ChatGPT with a capacity of around 500 million parameters.
