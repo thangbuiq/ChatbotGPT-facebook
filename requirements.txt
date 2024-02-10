@@ -1,3 +1,6 @@
-aiohttp==3.1.3
+aiohttp
+fastapi
 gunicorn
-openai
+httpx
+pydantic
+uvicorn
